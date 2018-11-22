@@ -1,6 +1,8 @@
 # CV
 Repository representing projects for Tobias Midskard Sørensen
 
+LinkedIN: https://www.linkedin.com/in/tobias-midskard-sørensen-104aa1107
+
 # Projects from school
 - SpaceTaxi (C#) -  A part of a Software Development course on DIKU. (KU)<br>
 https://github.com/Tobiasmidskards/SpaceTaxi
