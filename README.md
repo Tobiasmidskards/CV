@@ -3,6 +3,7 @@ Repository representing projects for Tobias Midskard Sørensen
 
 # Projects from school
 - SpaceTaxi (C#) -  A part of a Software Development course on DIKU. (KU)
+https://github.com/Tobiasmidskards/SpaceTaxi
 - TheLittleInn (Java) - Management system for a fictive B&B. (KEA)
 - BuildABase (Java) - Lookup movies from IMDB. (KEA)
 - SK41 (Java) - Management system for the chessclub SK41. (KEA)
