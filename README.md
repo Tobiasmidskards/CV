@@ -1,12 +1,14 @@
 # CV
 Repository representing projects for Tobias Midskard Sørensen
 
-# Projects
+# Projects from school
 - SpaceTaxi (C#) -  A part of a Software Development course on DIKU.
 - TheLittleInn (Java) - Management system for a fictive B&B.
 - BuildABase (Java) - Lookup movies from IMDB.
-- Manager (Java) - A wannabe managergame from VirtualManager.com.
 - SK41 (Java) - Management system for the chessclub SK41.
+
+# Project at home
+- Manager (Java) - A wannabe managergame from VirtualManager.com.
 - TimeIsMoney (Swift) - App to track hourly salary.
 - Instant Rap Battle (Swift) - Battle your homies with IRB v 1.0. (soon v 2.0)
 
