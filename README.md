@@ -2,6 +2,7 @@
 Repository representing projects for Tobias Midskard Sørensen
 
 # Projects from school
+- Fasto OS functions (C) - A part of a Implementation of Programminglanguage course on DIKU. (KU)
 - SpaceTaxi (C#) -  A part of a Software Development course on DIKU. (KU)
 - TheLittleInn (Java) - Management system for a fictive B&B. (KEA)
 - BuildABase (Java) - Lookup movies from IMDB. (KEA)
@@ -14,3 +15,6 @@ Repository representing projects for Tobias Midskard Sørensen
 - TOBY3D (Arduino) - My 1. 3D printer build from scratch, using Marlin firmware and OctoPrint. (MKS gen 1.4)
 - Dronedaren (Arduino) - My 1. quaddrone build from scratch, using MultiWii. (Arduino Nano)
 - SaiBot (Python) - A minimal selfaware caterpillar robot. (Raspberry Pi)
+
+# Other
+I have bin using python to do image processing, analasys of data and modeling of graphs. Mostly as a part of some matemathics courses on DIKU. 
