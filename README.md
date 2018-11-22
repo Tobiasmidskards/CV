@@ -12,5 +12,5 @@ Repository representing projects for Tobias Midskard Sørensen
 
 # Hobbies and hardware
 - TOBY3D (Arduino) - My 1. 3D printer build from scratch, using Marlin firmware and OctoPrint. (MKS gen 1.4)
-- Dronedaren (Arduino) - My 1. drone build from scratch, using MultiWii. (Arduino Nano)
+- Dronedaren (Arduino) - My 1. quaddrone build from scratch, using MultiWii. (Arduino Nano)
 - SaiBot (Python) - A minimal selfaware caterpillar robot. (Raspberry Pi)
