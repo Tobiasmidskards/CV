@@ -17,6 +17,8 @@ https://github.com/Tobiasmidskards/Manager
 https://github.com/Tobiasmidskards/IPSGROUP
 
 # Hobbies and hardware
+- www.financy.dk (Python - Flask) - Manage your own company. <br>
+https://github.com/Tobiasmidskards/financy
 - TOBY3D (Arduino) - My 1. 3D printer build from scratch, using Marlin firmware and OctoPrint. (MKS gen 1.4)
 - Dronedaren (Arduino) - My 1. quaddrone build from scratch, using MultiWii. (Arduino Nano)
 - SaiBot (Python) - A minimal selfaware caterpillar robot. (Raspberry Pi)<br>
